@@ -46,8 +46,12 @@ npm install vue-print-nb --save。
 ![物理结构图](%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%89%A9%E7%90%86%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 ![系统功能图](%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD%E5%9B%BE.jpg)
 ![系统流程图](%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%B3%BB%E7%BB%9F%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
+## 创新项参考
+本数据库结构并没有加锁，没有同一时间处理大量数据的能力，可以在我的项目上增加锁来达到列举的创新点。不过打印，图形登录码等功能均已实现。
+![本项目的创新项参考](%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE/PixPin_2024-12-27_19-49-57.png)
 #### 特别鸣谢
 [B站up：边城仔](https://www.bilibili.com/video/BV1zc41167dA/?spm_id_from=333.337.search-card.all.click&vd_source=3f86a82293dfda8ebb84f6cfd509c597
-)
+)。
+图片来源于zzu官网和wall haven。
 
 
