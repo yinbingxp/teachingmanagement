@@ -46,6 +46,12 @@ npm install vue-print-nb --save。
 ![物理结构图](%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%89%A9%E7%90%86%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 ![系统功能图](%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD%E5%9B%BE.jpg)
 ![系统流程图](%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%B3%BB%E7%BB%9F%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
+#### 项目效果展示
+![输入图片说明](imag/image1.png)
+![输入图片说明](imag/image2.png)
+![输入图片说明](imag/image3.png)
+![输入图片说明](imag/image4.png)
+![输入图片说明](imag/image5.png)
 ## 创新项参考
 本数据库结构并没有加锁，没有同一时间处理大量数据的能力，可以在我的项目上增加锁来达到列举的创新点。不过打印，图形登录码等功能均已实现。
 ![本项目的创新项参考](%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE/PixPin_2024-12-27_19-49-57.png)
