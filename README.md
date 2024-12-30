@@ -41,7 +41,11 @@ npm install vue-print-nb --save。
 2.  千万别忘记下载前端打印库！！！
 
 #### 项目结构图
-
+![ER图](%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE/ER.png)】
+![关系模式图](%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE/%E5%85%B3%E7%B3%BB%E6%A8%A1%E5%BC%8F.png)
+![物理结构图](%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%89%A9%E7%90%86%E7%BB%93%E6%9E%84%E5%9B%BE.png)
+![系统功能图](%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD%E5%9B%BE.jpg)
+![系统流程图](%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%B3%BB%E7%BB%9F%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
 #### 特别鸣谢
 [B站up：边城仔](https://www.bilibili.com/video/BV1zc41167dA/?spm_id_from=333.337.search-card.all.click&vd_source=3f86a82293dfda8ebb84f6cfd509c597
 )
